@@ -159,7 +159,7 @@ docs/                      screenshots
 - The exact layout of declarations, loops and blocks was chosen to match the keywords and operators defined for the language.
 - There are no comments, unary minus, `<=`, `>=` or `!=` in Kreatics.
 
-## Authors
+## Creators
 
 - Syed Rafay Ahmed
 - Mehmood Khan

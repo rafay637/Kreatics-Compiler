@@ -13,9 +13,9 @@ EXAMPLES = [
 hold numb b => 4;
 hold numb sum => a +. b *. 2;
 shout sum;
-hold characters msg => "Hola, Amigo!";
+hold characters msg => "Ahoy, matey!";
 shout msg;
-''', None, ["18", "Hola, Amigo!"]),
+''', None, ["18", "Ahoy, matey!"]),
 
     ("V2  Valid - conditional (maybe / otherwise)",
      '''hold numb marks => 72;
